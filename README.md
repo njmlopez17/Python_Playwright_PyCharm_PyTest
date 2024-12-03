@@ -1,14 +1,9 @@
 ## <ins>This publication covers the following tools:<ins>
-
-• Python 
-
-• Playwright  
-
-• PyCharm 
-
-• PyTest 
-
-• GitHub repository
+   - Python
+   - Playwright
+   - PyCharm
+   - PyTest
+   - GitHub repository
 
 ## <ins>Utilizing the following functions, commands and libraries:<ins>
 
@@ -34,3 +29,5 @@
    - Test reporting in PyTest with Playwright (PyTest HTML plugin)
 
 ## <ins>End-To-End coverage documentation:<ins>
+
+https://github.com/njmlopez17/Python_Playwright_PyCharm_PyTest/blob/a68857bcd0357497b81df856cda5f8bcc1895235/Test%20Automation%20End-to-End%20documentation.pdf
