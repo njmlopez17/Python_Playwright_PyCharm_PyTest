@@ -12,7 +12,7 @@
 
 ## <ins>Utilizing the following functions, commands and libraries:<ins>
 
-1. **Test automation using:**
+**Working on a web page:**
 
    - Identifying element using css locators
    - Identifying element using XPath locators
