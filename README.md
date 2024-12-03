@@ -12,42 +12,25 @@
 
 ## <ins>Utilizing the following functions, commands and libraries:<ins>
 
-• o	Identifying element using css locators
+1. **Test automation using:**
 
-o	Identifying element using XPath locators
-
-o	Selecting values from dropdowns
-
-o	Selecting radio buttons and checkboxes
-
-o	Alerts and dialog box
-
-o	Windows/page handling
-
-o	Cookies and taking page screenshots
-
-o	Page interactions
-
-o	Exception handling and storing elements in lists
-
-o	Ajax handling
-
-o	Page tables
-
-o	Upload and download of files
-
-o	Page desktop video recording and screenshots
-
-o	Web page with Playwright and PyTest
-
-o	Page with fixtures (module and functions)
-
-o	Page with fixtures (class and functions)
-
-o	Parameterizing tests in PyTest with Playwright
-
-o	Test reporting in PyTest with Playwright (PyTest HTML plugin)
-
-
+   - Identifying element using css locators
+   - Identifying element using XPath locators
+   - Selecting values from dropdowns
+   - Selecting radio buttons and checkboxes
+   - Alerts and dialog box
+   - Windows/page handling
+   - Cookies and taking page screenshots
+   - Page interactions
+   - Exception handling and storing elements in lists
+   - Ajax handling
+   - Page tables
+   - Upload and download of files
+   - Page desktop video recording and screenshots
+   - Web page with Playwright and PyTest
+   - Page with fixtures (module and functions)
+   - Page with fixtures (class and functions)
+   - Parameterizing tests in PyTest with Playwright
+   - Test reporting in PyTest with Playwright (PyTest HTML plugin)
 
 ## <ins>End-To-End coverage documentation:<ins>
